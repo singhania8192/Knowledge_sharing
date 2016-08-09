@@ -1,0 +1,136 @@
+$$$$$$$$$ RASPBERRY BOOTING
+	http://elinux.org/RPi_Software#Overview
+
+###### Android souce code
+	https://github.com/peyo-hd/local_manifests
+
+######### 7"touch screen on raspberry pi description 
+
+	https://www.adafruit.com/products/2718
+
+###### : Understanding Touchscreen Technology and Design 
+	
+	http://www.cypress.com/file/95156/download
+
+#########  How can a screen sense touch? A basic understanding of touch panels
+	
+	http://www.eizoglobal.com/library/basics/basic_understanding_of_touch_panel/
+
+############ touch screen calibration (roatation )  
+
+	http://www.circuitbasics.com/raspberry-pi-touchscreen-calibration-screen-rotation/
+
+####### touch screen and lcd interface 
+	
+	http://www.waveshare.com/w/upload/8/8b/7inch-Capacitive-Touch-LCD-UserManual.pdf
+
+########### data sheet of touch screen 
+	
+	http://www.haoyuelectronics.com/Attachment/HY101CTP/FocalTech-FT5x06%20DataSheet%20V4.0_1212.pdf
+
+######## Capacitive touch integration with android
+	
+	http://processors.wiki.ti.com/index.php/Capacitive_touch_integration_with_android
+
+#touch screen driver
+
+	http://prog3.com/sbdm/blog/wavemcu/article/details/8573362
+
+#### touch screen in android 
+	
+	http://www.programering.com/a/MDM2ADNwATU.html
+
+### video display in frame buffer
+
+	https://translate.google.co.in/translate?hl=en&sl=cs&u=http://www.root.cz/clanky/operace-s-framebufferem-na-raspberry-pi/&prev=search
+
+### Raspberry pi frame buffer
+
+	http://magicsmoke.co.za/?p=284
+
+##diagram input system 
+
+	http://yannik520.github.io/input_subsystem.jpg
+
+####touch pdf about touch screen detalis
+	
+
+	http://sandeepsagar1990.blogspot.in/2012/03/touchscreen-working-principle.html
+
+#####muli touch 
+
+	https://www.olimex.com/Products/OLinuXino/A13/A13-LCD7-TS/resources/S700-AT070TN92.pdf
+
+######data sheet 
+
+	http://www.haoyuelectronics.com/Attachment/HY101CTP/FocalTech-FT5x06%20DataSheet%20V4.0_1212.pdf	
+	http://www.waveshare.com/w/upload/8/8b/7inch-Capacitive-Touch-LCD-UserManual.pd	
+	https://www.adafruit.com/datasheets/FT6x06_AN_public_ver0.1.3.pdf	
+	https://newhavendisplay.com/appnotes/datasheets/touchpanel/FT5x06_registers.pdf
+
+######	dsi info==
+
+	http://www.petervis.com/Raspberry_PI/Raspberry_Pi_LCD/Raspberry_Pi_LCD_DSI_Display_Connector.html
+
+######raspberrys schematic 
+
+	https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/RPI-3B-V1_2-SCHEMATIC-REDUCED.pdf
+	https:///home/sanjay/Downloads/Raspberry%20Pi%20Compute%20Module%20Schematic.pdf
+
+#####Raspberry pi hardware module 
+		
+	https://github.com/raspberrypi/documentation/tree/master/hardware
+
+#### flow chart
+	http://www.google.ch/patents/US8310457
+	http://www.google.ch/patents/US20010033273
+
+##### Display interface DSI
+		
+	http://mipi.org/specifications/display-interface
+
+#### VideoCore® IV 3D
+		
+	http://www.broadcom.com/docs/support/videocore/VideoCoreIV-AG100-R.pdf
+
+########### how to optimze gpu code on raspbery pi
+		
+	https://petewarden.com/2014/08/07/how-to-optimize-raspberry-pi-code-using-its-gpu/
+
+###### Programming for a Touchscreen on the Raspberry Pi aplliction test
+	
+	http://ozzmaker.com/programming-a-touchscreen-on-the-raspberry-pi/
+
+########## how to check flow of touch screen driver 
+	
+	Documentation/input/multi-touch-protocol.txt	
+
+####### Mail box doc
+		
+	https://github.com/raspberrypi/firmware/wiki
+	Documentation/devicetree/bindings/mailbox/mailbox.txt
+#########
+	In the kernel’s source tree:
+
+	Documentation/driver-model/devres.txt
+	drivers/base/devres.c
+	lib/devres.c
+	drivers/base/dma-mapping
+
+########## inetface i2c to dma 
+
+		http://www.ijera.com/papers/Vol4_issue6/Version%201/T04601126131.pdf
+		https://github.com/raspberrypi/firmware/wiki/Mailbox-property-interface
+		https://asuolgsoc2014.wordpress.com/2014/05/26/mailbox-interface/
+	
+######device tree and phandle property
+
+		http://lxr.free-electrons.com/source/Documentation/devicetree/booting-without-of.txt
+#########  input system in Andriod 
+	
+		https://seasonofcode.com/posts/internal-event-handling-in-the-linux-kernel-and-the-android-userspace.html
+
+
+
+
+
